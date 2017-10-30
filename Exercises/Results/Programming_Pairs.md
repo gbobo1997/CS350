@@ -20,7 +20,6 @@ This list contains the programming partners.
 * jone2032
 * kell6808
 * mart6384
-* mier2034
 * munn9422
 * newb3839
 * orte7266
@@ -32,7 +31,5 @@ This list contains the programming partners.
 
 ## Partnerships
 
-* pham5336 & jone2032
 * mier2034 & pere1222
-newb3839 & dixo780
-
+* amin3534 & carv4345
